@@ -2,7 +2,7 @@
 
 <!-- j[![Website](https://img.shields.io/website?label=Profile%20Website&style=for-the-badge&url=https%3A%2F%2Fdhruvchauhanspecials.000webhostapp.com)](https://dhruvchauhanspecials.000webhostapp.com)-->
 
-[![Automation Projects (In App)](https://img.shields.io/website?label=Automation%20Projects%20%28In%20App%29&style=for-the-badge&url=https%3A%2F%2Fdhruvchauhanspecials.000webhostapp.com)]<!--(https://www.macrodroidlink.com/macrostore?id=12667)-->
+[![Automation Projects (In App)](https://img.shields.io/website?label=Automation%20Projects%20%28In%20App%29&style=for-the-badge&url=https%3A%2F%2Fdhruvchauhanspecials.000webhostapp.com)](https://www.macrodroidlink.com/macrostore?id=12667)
 
 
 ## I'm a Student & Developer !!
