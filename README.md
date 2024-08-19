@@ -5,7 +5,7 @@
 [![Automation Projects (In App)](https://img.shields.io/website?label=Automation%20Projects%20%28In%20App%29&style=for-the-badge&url=https%3A%2F%2Fdhruvchauhanspecials.000webhostapp.com)](https://www.macrodroidlink.com/macrostore?id=12667)
 
 
-## I'm a Student & Developer !!
+## I'm a Web & App Developer !!
 
 - 🔭 Check out my Automation Projects (Open Using Macrodroid App): [Macrodroid Device Automation](https://www.macrodroidlink.com/macrostore?id=12667) !
 - 🌱 I’m a learner who adapts to every new technologies
